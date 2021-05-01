@@ -1,7 +1,7 @@
 # mega-bus
 
 <a href="https://rjmahfuztech.github.io/mega-bus">
-  <img src="images/mega-bus.JPG">
+  <img width="100%" height="100%" src="images/mega-bus.JPG">
 </a>
 
 ## Online bus ticket counter.
